@@ -137,7 +137,6 @@ header{
     text-align: center;
     background-color: #ffffff;
     border-radius: 8px;
-    border: 2px solid red;
 }
 .bookmark{
     width: 322px;
@@ -214,4 +213,63 @@ font-size: 50px;
 }
 .banner{
     margin-top: 120px;
+    margin-bottom:120px ;
+}
+.banner-footer{
+    width: 1360px;
+    height: 384px;
+    background-color: #F7F6F2;
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+}
+.contents-footer{
+    text-align: center;
+}
+.cf h1{
+    color: #001931;
+}
+.cf p{
+    color:#627382;
+}
+.buttons-footer{
+    align-items: center;
+        width: 194px;
+        height: 44px;
+        background-color: #469165;
+        border: none;
+        text-decoration: none;
+        color: white;
+        border-radius: 4px;
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: 500;
+}
+.btn-pera{
+    color: #627382;
+}
+.f-section{
+    width: 1600px;
+    height: 348px;
+    background-color: #001931;
+    margin: 0 auto;
+;
+}
+.logo{
+        display: flex;
+            justify-content: space-between;
+            align-items: center;
+}
+.logo img{
+    margin-top: 150px;
+}
+.links span{
+color: white;
+margin-right:10px ;
+margin-top:100px ;
+display: flex;
+}
+.copy{
+    color: white;
+    text-align: center;
 }
