@@ -109,3 +109,109 @@ header{
         background: transparent;
         border-radius: 4px;
 }
+.note h1{
+    text-align: center;
+    font-size: 48px;
+}
+.note p{
+    text-align: center;
+    font-size: 16 px;
+}
+.cards
+{
+    display: flex;
+    justify-content: space-around;
+}
+.cards h4{
+    font-size: 24px;
+    font-weight: 500;
+    color: #001931;
+}
+.cards p{
+    font-size: 16px;
+    color: #627382;
+}
+.vector{
+    width: 322px;
+    height: 300px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid red;
+}
+.bookmark{
+    width: 322px;
+        height: 300px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.brain{
+    width: 322px;
+        height: 300px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.info{
+    width: 322px;
+        height: 300px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+.vector .icon{
+    margin: 69px;
+    width: 60px;
+    height: 60px;
+    background-color: #F95555;
+    border-radius: 100px;
+    margin: 36px auto;
+}
+.bookmark .icon{
+    width: 60px;
+        height: 60px;
+        background-color: #F95555;
+        border-radius: 100px;
+        margin: 36px auto;
+}
+.brain .icon{
+    width: 60px;
+        height: 60px;
+        background-color: #F95555;
+        border-radius: 100px;
+        margin: 36px auto;
+}
+.info .icon{
+width: 60px;
+    height: 60px;
+    background-color: #F95555;
+    border-radius: 100px;
+    margin: 36px auto;
+}
+.container{
+    width: 1360px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.textcontainer{
+    display: flex;
+    align-items: center;
+}
+.maintext .sol{
+    color: #469165;
+}
+.maintext .mh1{
+color: #001931;
+font-weight: 500;
+font-size: 50px;
+}
+.maintext .mh1p{
+    font-size: 16px;
+    color: #627382;
+}
+.banner{
+    margin-top: 120px;
+}
